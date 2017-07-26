@@ -1,1 +1,1 @@
-# JvaScript-and-Html-exercise
+# JavaScript-and-Html-exercise
